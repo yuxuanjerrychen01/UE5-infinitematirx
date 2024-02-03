@@ -1,0 +1,6 @@
+2024/02/02-10:55:17.837 11bc Creating DB C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/02/02-10:55:17.846 11bc Reusing MANIFEST C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/02-10:58:57.037 11bc Level-0 table #5: started
+2024/02/02-10:58:57.047 11bc Level-0 table #5: 1321 bytes OK
+2024/02/02-10:58:57.049 11bc Delete type=0 #3
+2024/02/02-10:58:57.050 11bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WB_Main.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Watermelon_ujdjfddjw/S_Watermelon_ujdjfddjw_lod3_Var1.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel_2.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/Megascans/3D_Assets/Plastic_Drum_virvfjk/S_Plastic_Drum_virvfjk_lod3_Var1.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel_3.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Users/yuxua/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel_4.uasset"
+			]
+		}
+	]
+}
